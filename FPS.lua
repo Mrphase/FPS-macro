@@ -1,12 +1,5 @@
 local begin_running_time = GetRunningTime() local begin_running_time = GetRunningTime()--FPS压枪宏 v0.1  MountCloud @2019 www.mountcloud.org
 
---介绍：技术不行，啥都白扯。本宏的开发环境是G502，适用于具有G键、DPI+、DPI-、前进键、G9键这几个键。
-
---		宏默认为关闭状态，需要手动启动和关闭。
-
---		说是导入时需要【设为永久性配置文件】，否则不生效，这个我没测过，反正我一直都是永久的。
-
---		说是导入时需要【设为永久性配置文件】，否则不生效，这个我没测过，反正我一直都是永久的。
 
 
 
